@@ -1,0 +1,78 @@
+@inproceedings{andrychowicz2016learning,
+  title={Learning to learn by gradient descent by gradient descent},
+  author={Andrychowicz, Marcin and Denil, Misha and Gomez, Sergio and Hoffman, Matthew W and Pfau, David and Schaul, Tom and de Freitas, Nando},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={3981--3989},
+  year={2016}
+}
+
+@inproceedings{hochreiter2001learning,
+  title={Learning to learn using gradient descent},
+  author={Hochreiter, Sepp and Younger, A Steven and Conwell, Peter R},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={87--94},
+  year={2001},
+  organization={Springer}
+}
+
+@book{thrun2012learning,
+  title={Learning to learn},
+  author={Thrun, Sebastian and Pratt, Lorien},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{nesterov1983method,
+  title={A method of solving a convex programming problem with convergence rate O (1/k2)},
+  author={Nesterov, Yurii},
+  booktitle={Soviet Mathematics Doklady},
+  volume={27},
+  number={2},
+  pages={372--376},
+  year={1983}
+}
+
+@article{caruana1995learning,
+  title={Learning Many Related Tasks at the Same Time with Backpropagation.},
+  author={Caruana, Rich},
+  journal={Advances in neural information processing systems},
+  pages={657--664},
+  year={1995},
+  publisher={MORGAN KAUFMANN PUBLISHERS}
+}
+
+@article{ellis1965transfer,
+  title={The transfer of learning.},
+  author={Ellis, Henry C},
+  year={1965},
+  publisher={Macmillan}
+}
+
+@inproceedings{santoro2016meta,
+  title={Meta-learning with memory-augmented neural networks},
+  author={Santoro, Adam and Bartunov, Sergey and Botvinick, Matthew and Wierstra, Daan and Lillicrap, Timothy},
+  booktitle={Proceedings of The 33rd International Conference on Machine Learning},
+  pages={1842--1850},
+  year={2016}
+}
+
+@book{schatzman2002numerical,
+  title={Numerical analysis: a mathematical introduction},
+  author={Schatzman, Michelle and Schatzman, Michelle},
+  year={2002},
+  publisher={Oxford University Press}
+}
+
+@misc{MNIST,
+  title = {The {MNIST} database of handwritten digits},
+  howpublished = {\url{http://yann.lecun.com/exdb/mnist/}},
+  note = {Accessed: 2017-02-16}
+}
+
+@misc{ImageNet,
+  title = {The {ImageNet} database of handwritten digits},
+  howpublished = {\url{http://www.image-net.org/}},
+  note = {Accessed: 2017-02-16}
+}
+
+
